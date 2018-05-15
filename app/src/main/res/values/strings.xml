@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">basicGPS</string>
+    <string name="lat_name">Latitude (decDeg)</string>
+    <string name="long_name">Longitude (decDeg)</string>
+    <string name="dir_name">Direction (deg)</string>
+    <string name="spd_name">Speed (ft/s)</string>
+    <string name="alt_name">Altitude (ft)</string>
+    <string name="wpt_btn_name">Save</string>
+    <string name="wpt_name">Set Location Name</string>
+    <string name="nav_btn_name">Navigate</string>
+    <string name="sel_location_name">Select Destination</string>
+    <string name="distance_to_name">"Distance to Destination (mi): "</string>
+    <string name="spd_mph_name">Speed (mph)</string>
+    <string name="man_mode">Manual Mode</string>
+    <string name="edit_wpt_name">Edit Saved\nLocations</string>
+    <string name="edit_locs_name">Stored Locations\nSwipe to delete, Tap to edit.</string>
+    <string name="distance_to_feet">"Distance to Destination (ft):  "</string>
+    <string name="del_all_name">Delete All</string>
+    <string name="update_name">Update</string>
+    <string name="cancel_name">Cancel</string>
+</resources>
