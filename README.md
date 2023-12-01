@@ -9,6 +9,5 @@ A basic GPS navigating tool to use hiking, backpacking, etc.
 - Works in airplane mode.
 
 # Privacy Policy:
-This app does not collect any personal information, and does not share any information with any third party under any circumstance. 
-No user account, email address, or other personal information is required to use this app.   
-This app does not engage in ad targeting, data mining, or other activities that would compromise your privacy. 
+This app stores GPS waypoints locally on the users device when instructed to by the user. This information is not transmitted to any server or third party. This app does not collect any other personal information, and does not share any information with any third party under any circumstance. No user account, name, email address, or other personally identifiable information is required to use this app.
+This app does not engage in ad targeting, data mining, or other activities that would compromise your privacy.
